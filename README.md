@@ -1,3 +1,5 @@
+Link to the Power BI report: https://www.novypro.com/project/customer-churn-ratio
+
 This project makes use of a fictional churn dataset from a Telecom provider called Databel to analyze customer churn. The dataset consists of 29 different columns and has one row per customer.
 
 According to Investopedia, The Churn Rate, also known as the rate of attrition or customer churn, is the rate at which customers stop doing business with an entity. Since it is considered easier to keeping customers than getting the new ones, reducing churn is a priority for many companies. The simplified formula for churn is to divide customers lost by the total number of customers. There are multiple ways to calculate churn. It varies by industry and revenue model. For example, an e-commerce platform could define a churner as customers who have not made a purchase in the last 12 months.
